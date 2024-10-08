@@ -1,2 +1,2 @@
 # Web-Aniime
-Web
+Open at Dekstop.
